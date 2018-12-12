@@ -5,4 +5,4 @@ ls -la
 echo 'foo'
 
 # test to fail
-a
+ab
